@@ -21,7 +21,7 @@ An autonomous multi-agent platform that takes a Jira ticket and writes, tests, a
 
 **Stack:** Python · FastAPI · Docker · AWS ECS · SQS · ChromaDB · WebSockets
 
-🎥 [Watch Demo]([YOUR_LOOM_LINK_HERE](https://www.loom.com/share/62b3b854b5e04a14892caf12d9a53877)) | [Backend Repo](https://github.com/Vikas538/orbit) | [Dashboard Repo](https://github.com/Vikas538/orbit-dashboard)
+🎥 [Watch Demo](https://www.loom.com/share/62b3b854b5e04a14892caf12d9a53877) | [Backend Repo](https://github.com/Vikas538/orbit) | [Dashboard Repo](https://github.com/Vikas538/orbit-dashboard)
 
 ---
 
